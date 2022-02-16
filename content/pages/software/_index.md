@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Software
 uid: 953b630f-6879-d8be-99aa-38b67b525342
 ---
