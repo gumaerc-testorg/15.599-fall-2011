@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes videos that provide step by step instructions on
+  accessing and downloading Condor, the dynamic social network analysis software required
+  for the course on a PC.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Software

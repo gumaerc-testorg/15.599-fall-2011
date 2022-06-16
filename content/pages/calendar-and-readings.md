@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, content, readings,
+  and assignment due dates.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -53,7 +55,7 @@ Gloor, Peter A. _Swarm Creativity, Competitive Advantage Through Collaborative I
 Condor 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Condor. Web-coolhunting, and the "communication view" to measure the popularity of topics. Download and install Condor prior to class. Information on Condor can be found in the [Software]({{< baseurl >}}/pages/software) section of this course.
+Introduction to Condor. Web-coolhunting, and the "communication view" to measure the popularity of topics. Download and install Condor prior to class. Information on Condor can be found in the {{% resource_link 953b630f-6879-d8be-99aa-38b67b525342 "Software" %}} section of this course.
 {{< tdclose >}}
 {{< tdopen >}}
  

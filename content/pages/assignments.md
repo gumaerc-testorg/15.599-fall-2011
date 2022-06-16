@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on an individual project to apply the
+  Condor social network analysis and Web coolhunting tools on a topic of your choice.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

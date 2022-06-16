@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of Condor, the dynamic social network
+  analysis software required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Software
@@ -14,6 +16,6 @@ Welcome to Condor (This video was created by Galaxy Advisors and is not covered 
 
 Step by step instructions on accessing and downloading the Condor software are available:
 
-[Condor for Mac]({{< baseurl >}}/pages/software/condor-for-mac)
+{{% resource_link 07e4bf2b-62f0-4331-0b9f-6462397f64fa "Condor for Mac" %}}
 
-[Condor for PC]({{< baseurl >}}/pages/software/condor-for-pc)
+{{% resource_link baa73c71-b400-6e4e-3ead-ed4bb1d22dc5 "Condor for PC" %}}
