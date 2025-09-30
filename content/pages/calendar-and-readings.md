@@ -38,7 +38,7 @@ Collaboration science framework
 {{< tdopen >}}
 
 
-Gloor, Peter A. _Swarm Creativity, Competitive Advantage Through Collaborative Innovation Networks_. Oxford University Press, 2006. ISBN: 9780195304121. \[Preview with [Google Books](http://books.google.com/books?id=5b3L8jP_IqEC&pg=Pafrontcover)\]
+Gloor, Peter A. _Swarm Creativity, Competitive Advantage Through Collaborative Innovation Networks_. Oxford University Press, 2006. ISBN: 9780195304121. \[Preview with {{% resource_link "be104888-052b-4b82-92b4-64cf22e15136" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Social network analysis
 
 Hands-on with Gephi.
 
-Wassermann, Stanley, and Katherine Faust. _Social Network Analysis: Methods and Applications_. Cambridge University Press, 1994. ISBN: 9780521387071. \[Preview with [Google Books](http://books.google.com/books?id=CAm2DpIqRUIC&pg=Pafrontcover)\]
+Wassermann, Stanley, and Katherine Faust. _Social Network Analysis: Methods and Applications_. Cambridge University Press, 1994. ISBN: 9780521387071. \[Preview with {{% resource_link "15a736ae-6987-4faa-bd67-104754734d1f" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -281,9 +281,9 @@ Facebook
 
 ### Student presentation:
 
-Aral, Sinan, and Dylan Walker. "[Creating Social Contagion Through Viral Product Design: A Randomized Trial of Peer Influence in Networks](http://dx.doi.org/10.1287/mnsc.1110.1421)." _Management Science_ 57, no. 9 (2011): 1623–39.
+Aral, Sinan, and Dylan Walker. "{{% resource_link "8cb99928-11b0-4c5e-bb15-287ff4c1b4ee" "Creating Social Contagion Through Viral Product Design: A Randomized Trial of Peer Influence in Networks" %}}." _Management Science_ 57, no. 9 (2011): 1623–39.
 
-Traud, Amanda L., Peter J. Mucha, et al. "[Social Structure of Facebook Networks](http://arxiv.org/abs/1102.2166)."  
+Traud, Amanda L., Peter J. Mucha, et al. "{{% resource_link "6a7ac794-0e60-4dca-b345-b04491be9d59" "Social Structure of Facebook Networks" %}}."  
 
 Hill, R. A., and R. I. M. Dunbar. "Social Network Size in Humans." _Human Nature_ 14, no. 1 (2003): 53–72.
 
@@ -323,11 +323,11 @@ Learning from Wikipedians for efficient open source project management in differ
 
 ### Student presentation:
 
-Kittur, Aniket, and Robert E. Kraut. "[Harnessing the Wisdom of Crowds in Wikipedia: Quality Through Coordination](http://dx.doi.org/10.1145/1460563.1460572)." CSCW '08 Proceedings of the 2008 ACM conference on Computer supported cooperative work, 2008.
+Kittur, Aniket, and Robert E. Kraut. "{{% resource_link "81c61477-b2f8-400e-8b9c-9f405bdb37da" "Harnessing the Wisdom of Crowds in Wikipedia: Quality Through Coordination" %}}." CSCW '08 Proceedings of the 2008 ACM conference on Computer supported cooperative work, 2008.
 
-Liu, Jun, and Sudha Ram. "[Who Does What: Collaboration Patterns in the Wikipedia and Their Impact on Data Quality](https://dx.doi.org/10.1145/1985347.1985352)." _ACM Transactions on Management Information Systems_ 2, no. 2 (2011): 175–80.
+Liu, Jun, and Sudha Ram. "{{% resource_link "5cd2a7fb-0d5a-4f7d-8593-300756da06ce" "Who Does What: Collaboration Patterns in the Wikipedia and Their Impact on Data Quality" %}}." _ACM Transactions on Management Information Systems_ 2, no. 2 (2011): 175–80.
 
-Welser, Howard T., Dan Cosley, et al. "[Finding Social Roles in Wikipedia](http://dx.doi.org/10.1145/1940761.1940778)." Proceedings of the 2011 iConference, 2011.
+Welser, Howard T., Dan Cosley, et al. "{{% resource_link "67cc64d6-9b44-4c36-a29c-baf560d0f811" "Finding Social Roles in Wikipedia" %}}." Proceedings of the 2011 iConference, 2011.
 
 
 {{< tdclose >}}
@@ -352,11 +352,11 @@ Coolfarming—Nurturing COINs in the virtual and real world. Self-organizing, in
 
 Judge, Timothy A., and John D. Kammeyer-Mueller. "Happiness as a Societal Value Why Happiness Is Worthy of Study." _Academy of Management Perspectives_ 25, no. 1 (2008): 30–42.
 
-Frey, Bruno S. "[Happy People Live Longer](http://dx.doi.org/10.1126/science.1201060)." _Science_ 331, no. 6017 (2011): 542–3.
+Frey, Bruno S. "{{% resource_link "5abfd39e-d53d-4bcd-89f3-5b4e29236e63" "Happy People Live Longer" %}}." _Science_ 331, no. 6017 (2011): 542–3.
 
-Ariely, Dan, Uri Gneezy, et al. "[Large Stakes and Big Mistakes](http://dx.doi.org/10.1111/j.1467-937X.2009.00534.x)." _Review of Economic Studies_ 76, no. 2 (2009): 451–69.
+Ariely, Dan, Uri Gneezy, et al. "{{% resource_link "18117aba-4ff6-42cd-97f4-43e2a40b71b1" "Large Stakes and Big Mistakes" %}}." _Review of Economic Studies_ 76, no. 2 (2009): 451–69.
 
-Hassanpour, Navid. "[Media Disruption Exacerbates Revolutionary Unrest: Evidence from Mubarak's Natural Experiment](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1903351)." _APSA 2011 Annual Meeting Paper_ (2011).
+Hassanpour, Navid. "{{% resource_link "f8918675-2e8e-4330-933e-c54e1b14ac1e" "Media Disruption Exacerbates Revolutionary Unrest: Evidence from Mubarak's Natural Experiment" %}}." _APSA 2011 Annual Meeting Paper_ (2011).
 
 
 {{< tdclose >}}
@@ -437,13 +437,13 @@ Twitter and prediction markets
 
 ### Student presentation:
 
-Bollen, Johan, Bruno Goncalves, et al. "[Happiness is Assortative in Online Social Networks](http://dx.doi.org/10.1162/artl_a_00034)." _Artificial Life_ 17, no. 3 (2011): 237–51.
+Bollen, Johan, Bruno Goncalves, et al. "{{% resource_link "65f31b01-b35a-4c14-961d-28e56bbaff37" "Happiness is Assortative in Online Social Networks" %}}." _Artificial Life_ 17, no. 3 (2011): 237–51.
 
-Bollen, Johan, Huina Mao, et al. "[Twitter Mood Predicts the Stock Market](http://dx.doi.org/10.1016/j.jocs.2010.12.007)." _Journal of Computational Science_ 2, no. 1 (2011): 1–8.
+Bollen, Johan, Huina Mao, et al. "{{% resource_link "82a1d73b-ecb6-4d66-94a0-8111f66b9627" "Twitter Mood Predicts the Stock Market" %}}." _Journal of Computational Science_ 2, no. 1 (2011): 1–8.
 
-Wolfers, Justin, and Eric Zitzewitz. "[Prediction Markets](http://www.nber.org/papers/w10504)." _Journal of Economic Perspectives_ 18, no. 2 (2004): 107–26.
+Wolfers, Justin, and Eric Zitzewitz. "{{% resource_link "2a678115-2cad-4c84-a3ed-4a6fa5d98904" "Prediction Markets" %}}." _Journal of Economic Perspectives_ 18, no. 2 (2004): 107–26.
 
-Ott, Myle, Yejin Choi, et al. "[Finding Deceptive Opinion Spam by Any Stretch of the Imagination](http://dl.acm.org/citation.cfm?id=2002512)." HLT '11 Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, 2011.
+Ott, Myle, Yejin Choi, et al. "{{% resource_link "afd8fed6-56e7-45ae-8a35-89487c52cbc1" "Finding Deceptive Opinion Spam by Any Stretch of the Imagination" %}}." HLT '11 Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, 2011.
 
 
 {{< tdclose >}}
